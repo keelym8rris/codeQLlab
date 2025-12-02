@@ -16,7 +16,7 @@ def loading_animation():
         time.sleep(0.05)
     
     print("\n")
-    print(" Done! ")
+    print(" Done ")
     print()
     
     # Spinning animation
